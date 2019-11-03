@@ -7,7 +7,7 @@ _Setup Instructions:_
 2. Click the ‘Console’ tab
 
 ### Exercise 1 - The Welcome Message: 
-<img src = "https://live.staticflickr.com/916/40672633195_d88592638a_b.jpg" style="width:40%, height: auto">
+<img src = "https://live.staticflickr.com/916/40672633195_d88592638a_b.jpg" style="width:20%, height: 20%">
 
 **Instructions**
 1. Ask the user their name with prompt() and then store it in a variable called ‘name’. 
