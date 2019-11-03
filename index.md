@@ -7,7 +7,7 @@ _Setup Instructions:_
 2. Click the ‘Console’ tab
 
 ### Exercise 1 - The Welcome Message: 
-<img src = "https://live.staticflickr.com/916/40672633195_d88592638a_b.jpg", style="width:40%, height: auto">
+<img src = "https://live.staticflickr.com/916/40672633195_d88592638a_b.jpg" style="width:40%, height: auto">
 
 **Instructions**
 1. Ask the user their name with prompt() and then store it in a variable called ‘name’. 
@@ -28,18 +28,19 @@ _Note: There will be 2 possible ages for that year!_
 <p>&nbsp;</p>
 
 ### Exercise 3 - Website Makeover: 
+
 **Instructions**
 
 **PART 1: Heading**
 1. Find the id of the heading 
-2. Store the heading in a variable by using document.getElementById()
+2. Store the heading in a variable by using document.getElementById() to get the heading
 3. Change its colour to blue
 4. Change its font size to 30px 
 
 
 **PART 2: Text**
 1. Find the id of the heading 
-2. Store the heading in a variable by using document.getElementById()
+2. Store the heading in a variable by using document.getElementById() to get the heading
 3. Change its colour to blue
 4. Change its font size to 12px 
 
