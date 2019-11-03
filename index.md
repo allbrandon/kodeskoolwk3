@@ -1,16 +1,18 @@
-## Week 3
+# Week 3
 
-### Variables and the Console
+## Variables and the Console
 
 _Setup Instructions:_
 1. Right-click and press ‘Inspect Element’
 2. Click the ‘Console’ tab
 
-## Excercise 1 - The Welcome Message: 
+### Excercise 1 - The Welcome Message: 
 1. Ask the user their name with prompt() and then store it in a variable called ‘name’. 
 2. Give the user a welcome message with alert(). For example “Welcome Brandon!”
 
-## Excercise 2 - The Age Calculator: 
+<p>&nbsp;</p>
+
+### Excercise 2 - The Age Calculator: 
 **Want to find out how old you'll be? Calculate it!**
 1. Ask for a birth year and store in a variable.
 2. Ask for a future year and store in a variable.
