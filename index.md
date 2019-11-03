@@ -7,6 +7,7 @@ _Setup Instructions:_
 2. Click the ‘Console’ tab
 
 ### Excercise 1 - The Welcome Message: 
+<img src = "https://live.staticflickr.com/916/40672633195_d88592638a_b.jpg">
 1. Ask the user their name with prompt() and then store it in a variable called ‘name’. 
 2. Give the user a welcome message with alert(). For example “Welcome Brandon!”
 
@@ -20,3 +21,7 @@ _Setup Instructions:_
 4. Alert how old the person will be. For example: “You will be either 20 or 19 in 2019”
 
 _Note: There will be 2 possible ages for that year!_
+
+<p>&nbsp;</p>
+
+### Excercise 3 - Website Makeover: 
